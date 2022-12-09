@@ -1,7 +1,7 @@
 /**
  * Shades of Purple Theme for Prism.js
  *
- * @author Ahmad Awais <https://twitter.com/MrAhmadAwais/>
+ * @author Ahmad Awais <https: twitter.com mrahmadawais>
  * @support Follow/tweet at https://twitter.com/MrAhmadAwais/
  */
  /* 新添加的内容
@@ -217,4 +217,4 @@
  .line-highlight.line-highlight:before,
  .line-highlight.line-highlight[data-end]:after {
      content: '';
- }
+ }</https:>
