@@ -39,6 +39,17 @@
     
     
     <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/css/comeon.css"/>
       <url>/css/comeon.css</url>
@@ -50,22 +61,33 @@
     
     
     <entry>
-      <title>吾乐悦吾</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title></title>
+      <link href="/js/runtime.js"/>
+      <url>/js/runtime.js</url>
       
-        <content type="html"><![CDATA[<div class="aplayer no-destroy" data-id="229285" data-server="netease" data-type="song" data-autoplay="true" data-lrctype="-1"> </div><div class="aplayer no-destroy" data-id="1333013417" data-server="netease" data-type="song" data-autoplay="true" data-lrctype="-1"> </div><div class="aplayer no-destroy" data-id="153784" data-server="netease" data-type="song" data-autoplay="true" data-lrctype="-1"> </div><div class="aplayer no-destroy" data-id="152388" data-server="netease" data-type="song" data-autoplay="true" data-lrctype="-1"> </div><div class="aplayer no-destroy" data-id="453268698" data-server="netease" data-type="song" data-autoplay="true" data-lrctype="-1"> </div><div class="aplayer no-destroy" data-id="21537767" data-server="netease" data-type="song" data-autoplay="true" data-lrctype="-1"> </div><div class="aplayer no-destroy" data-id="347230" data-server="netease" data-type="song" data-autoplay="true" data-lrctype="-1"> </div><div class="aplayer no-destroy" data-id="188204" data-server="netease" data-type="song" data-autoplay="true" data-lrctype="-1"> </div><div class="aplayer no-destroy" data-id="212233" data-server="netease" data-type="song" data-autoplay="true" data-lrctype="-1"> </div><div class="aplayer no-destroy" data-id="152451" data-server="netease" data-type="song" data-autoplay="true" data-lrctype="-1"> </div>]]></content>
+        <content type="html"><![CDATA[var now=new Date;function createtime(){now.setTime(now.getTime()+1e3);var e=new Date("08/01/2022 00:00:00"),t=Math.trunc(234e8+(now-e)/1e3*17),a=(t/1496e5).toFixed(6),o=new Date("08/09/2022 00:00:00"),r=(now-o)/1e3/60/60/24,i=Math.floor(r),n=(now-o)/1e3/60/60-24*i,s=Math.floor(n);1==String(s).length&&(s="0"+s);var l=(now-o)/1e3/60-1440*i-60*s,g=Math.floor(l);1==String(g).length&&(g="0"+g);var d=(now-o)/1e3-86400*i-3600*s-60*g,b=Math.round(d);1==String(b).length&&(b="0"+b);let c="";c=s<18&&s>=9?`<img class="boardsign" src="https://img.shields.io/badge/F%E5%B0%8F%E5%B1%8B-%E7%A7%91%E7%A0%94%E6%91%B8%E9%B1%BC%E4%B8%AD%F0%9F%90%9F-1ade23?style=social&logo=Buy%20Me%20A%20Coffee" title="什么时候能够实现财富自由呀~"><br> 本站居然运行了 ${i} 天 ${s} 小时 ${g} 分 ${b} 秒 <i id="heartbeat" class="fas fa-heartbeat"></i> <br> 旅行者 1 号当前距离地球 ${t} 千米，约为 ${a} 个天文单位 🚀 <br> 再看看那个光点，它就在这里，这是家园，这是我们 —— 你所爱的每一个人，你认识的一个人，你听说过的每一个人，曾经有过的每一个人，都在它上面度过他们的一生✨ `:`<img class="boardsign" src="https://img.shields.io/badge/F%E5%B0%8F%E5%B1%8B-%E4%B8%8B%E7%8F%AD%E4%BC%91%E6%81%AF%E5%95%A6%F0%9F%8C%99-6adea8?style=social&logo=coffeescript" title="下班了就该开开心心地玩耍~"><br> 本站居然运行了 ${i} 天 ${s} 小时 ${g} 分 ${b} 秒 <i id="heartbeat" class="fas fa-heartbeat"></i> <br> 旅行者 1 号当前距离地球 ${t} 千米，约为 ${a} 个天文单位 🚀 <br> 再看看那个光点，它就在这里，这是家园，这是我们 —— 你所爱的每一个人，你认识的一个人，你听说过的每一个人，曾经有过的每一个人，都在它上面度过他们的一生✨ `,document.getElementById("workboard")&&(document.getElementById("workboard").innerHTML=c)}setInterval((()=>{createtime()}),1e3);</18&&s>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>杂七杂八</title>
+      <link href="/gallery/index.html"/>
+      <url>/gallery/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="https://s2.loli.net/2022/12/12/dfFWyGV3Qc91UOK.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">杂久杂拾</div>  <p>水有三沸，心难再倾</p>  <a href="/gallery/triviality"></a>  </figcaption>  </figure>  </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>吾乐悦吾</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="aplayer no-destroy" data-id="7812241963" data-server="netease" data-type="playlist" data-loop="all" data-autoplay="true" data-lrctype="-1"> </div>]]></content>
       
     </entry>
     
@@ -94,11 +116,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/js/runtime.js"/>
-      <url>/js/runtime.js</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[var now=new Date;function createtime(){now.setTime(now.getTime()+1e3);var e=new Date("08/01/2022 00:00:00"),t=Math.trunc(234e8+(now-e)/1e3*17),a=(t/1496e5).toFixed(6),o=new Date("08/09/2022 00:00:00"),r=(now-o)/1e3/60/60/24,i=Math.floor(r),n=(now-o)/1e3/60/60-24*i,s=Math.floor(n);1==String(s).length&&(s="0"+s);var l=(now-o)/1e3/60-1440*i-60*s,g=Math.floor(l);1==String(g).length&&(g="0"+g);var d=(now-o)/1e3-86400*i-3600*s-60*g,b=Math.round(d);1==String(b).length&&(b="0"+b);let c="";c=s<18&&s>=9?`<img class="boardsign" src="https://img.shields.io/badge/F%E5%B0%8F%E5%B1%8B-%E7%A7%91%E7%A0%94%E6%91%B8%E9%B1%BC%E4%B8%AD%F0%9F%90%9F-1ade23?style=social&logo=Buy%20Me%20A%20Coffee" title="什么时候能够实现财富自由呀~"><br> 本站居然运行了 ${i} 天 ${s} 小时 ${g} 分 ${b} 秒 <i id="heartbeat" class="fas fa-heartbeat"></i> <br> 旅行者 1 号当前距离地球 ${t} 千米，约为 ${a} 个天文单位 🚀 <br> 再看看那个光点，它就在这里，这是家园，这是我们 —— 你所爱的每一个人，你认识的一个人，你听说过的每一个人，曾经有过的每一个人，都在它上面度过他们的一生✨ `:`<img class="boardsign" src="https://img.shields.io/badge/F%E5%B0%8F%E5%B1%8B-%E4%B8%8B%E7%8F%AD%E4%BC%91%E6%81%AF%E5%95%A6%F0%9F%8C%99-6adea8?style=social&logo=coffeescript" title="下班了就该开开心心地玩耍~"><br> 本站居然运行了 ${i} 天 ${s} 小时 ${g} 分 ${b} 秒 <i id="heartbeat" class="fas fa-heartbeat"></i> <br> 旅行者 1 号当前距离地球 ${t} 千米，约为 ${a} 个天文单位 🚀 <br> 再看看那个光点，它就在这里，这是家园，这是我们 —— 你所爱的每一个人，你认识的一个人，你听说过的每一个人，曾经有过的每一个人，都在它上面度过他们的一生✨ `,document.getElementById("workboard")&&(document.getElementById("workboard").innerHTML=c)}setInterval((()=>{createtime()}),1e3);</18&&s>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -121,28 +143,6 @@
       <url>/gallery/triviality/index.html</url>
       
         <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221212112509.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125091.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125092.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125093.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125094.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125095.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125096.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125097.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125098.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125099.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250910.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250911.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250912.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250913.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250914.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250915.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250916.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250917.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250918.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250919.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250920.jpg" alt></p>          </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>杂七杂八</title>
-      <link href="/gallery/index.html"/>
-      <url>/gallery/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="https://s2.loli.net/2022/12/12/dfFWyGV3Qc91UOK.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">杂久杂拾</div>  <p>水有三沸，心难再倾</p>  <a href="/gallery/triviality"></a>  </figcaption>  </figure>  </div>]]></content>
       
     </entry>
     
