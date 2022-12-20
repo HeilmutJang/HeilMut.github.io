@@ -8,7 +8,7 @@
       <link href="/2022/12/18/Metereo-Flows/"/>
       <url>/2022/12/18/Metereo-Flows/</url>
       
-        <content type="html"><![CDATA[<p>-<span class="p center logo large red">致谢</span></p><span class="p h4">&#8195在此感谢王子昂哥哥高超的ps技术，帅哥哥不懈的毅力，出租车师傅精湛的车技，热心人的推车，考验脚踝力量的溜溜冰，etc.</span><hr><hr><div class="tip star faa-falling animated faa-slow"><div class="note blue icon-padding modern"><i class="note-icon fas fa-star-half-stroke"></i><p>观星台</p></div></div><div class="wow animate__zoomIn" data-wow-duration="5s" data-wow-delay="1s" data-wow-offset="5" data-wow-iteration><p><span class="p center code large cyan">一起康康</span></p></div><p><img src="/2022/12/18/Metereo-Flows/1.jpg" alt><br><img src="/2022/12/18/Metereo-Flows/2.jpg" alt><br><img src="/2022/12/18/Metereo-Flows/3.jpg" alt><br><img src="/2022/12/18/Metereo-Flows/4.jpg" alt><br><img src="/2022/12/18/Metereo-Flows/5.jpg" alt><br><img src="/2022/12/18/Metereo-Flows/6.jpg" alt></p>]]></content>
+        <content type="html"><![CDATA[<p>-<span class="p center logo large red">致谢</span><br><span class="p h4">&#8195在此感谢王子昂哥哥高超的ps技术，帅哥哥不懈的毅力，出租车师傅精湛的车技，热心人的推车，考验脚踝力量的溜溜冰，etc.</span></p><hr><hr><div class="tip star faa-falling animated faa-slow"><div class="note blue icon-padding modern"><i class="note-icon fas fa-star-half-stroke"></i><p>观星台</p></div></div><div class="wow animate__zoomIn" data-wow-duration="5s" data-wow-delay="1s" data-wow-offset="5" data-wow-iteration><p><span class="p center code large cyan">一起康康</span></p></div><p><img src="/2022/12/18/Metereo-Flows/1.jpg" alt><br><img src="/2022/12/18/Metereo-Flows/2.jpg" alt><br><img src="/2022/12/18/Metereo-Flows/3.jpg" alt><br><img src="/2022/12/18/Metereo-Flows/4.jpg" alt><br><img src="/2022/12/18/Metereo-Flows/5.jpg" alt><br><img src="/2022/12/18/Metereo-Flows/6.jpg" alt></p>]]></content>
       
       
       
@@ -40,7 +40,7 @@
       <link href="/2022/11/30/hello-world/"/>
       <url>/2022/11/30/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
       
@@ -63,11 +63,11 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>杂七杂八</title>
+      <link href="/gallery/index.html"/>
+      <url>/gallery/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="https://s2.loli.net/2022/12/12/dfFWyGV3Qc91UOK.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">杂久杂拾</div>  <p>水有三沸，心难再倾</p>  <a href="/gallery/triviality"></a>  </figcaption>  </figure>  </div>]]></content>
       
     </entry>
     
@@ -85,22 +85,11 @@
     
     
     <entry>
-      <title>杂七杂八</title>
-      <link href="/gallery/index.html"/>
-      <url>/gallery/index.html</url>
+      <title>comments</title>
+      <link href="/comments/index.html"/>
+      <url>/comments/index.html</url>
       
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="https://s2.loli.net/2022/12/12/dfFWyGV3Qc91UOK.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">杂久杂拾</div>  <p>水有三沸，心难再倾</p>  <a href="/gallery/triviality"></a>  </figcaption>  </figure>  </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/my.css"/>
-      <url>/css/my.css</url>
-      
-        <content type="html"><![CDATA[/*指针样式*/body {    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur),        default;}/*链接小手样式*/a,img {    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/pointer.cur),        default;}]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -118,11 +107,33 @@
     
     
     <entry>
-      <title>comments</title>
-      <link href="/comments/index.html"/>
-      <url>/comments/index.html</url>
+      <title></title>
+      <link href="/css/my.css"/>
+      <url>/css/my.css</url>
+      
+        <content type="html"><![CDATA[/*指针样式*/body {    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur),        default;}/*链接小手样式*/a,img {    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/pointer.cur),        default;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/light.js"/>
+      <url>/js/light.js</url>
+      
+        <content type="html"><![CDATA[// 霓虹灯效果// 颜色数组var arr = ["#39c5bb", "#f14747", "#f1a247", "#f1ee47", "#b347f1", "#1edbff", "#ed709b", "#5636ed"];// 颜色索引var idx = 0;// 切换颜色function changeColor() {    // 仅夜间模式才启用    if (document.getElementsByTagName('html')[0].getAttribute('data-theme') == 'dark') {        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = arr[idx] + " 0 0 10px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = arr[idx] + " 0 0 5px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = arr[idx] + " 0 0 12px";            document.getElementsByClassName("author-info__description")[0].style.textShadow = arr[idx] + " 0 0 12px";        } catch {                    }        idx++;        if (idx == 8) {            idx = 0;        }    } else {        // 白天模式恢复默认        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = "#1e1e1ee0 1px 1px 1px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = "";            document.getElementsByClassName("author-info__description")[0].style.textShadow = "";        } catch {                    }    }}// 开启计时器window.onload = setInterval(changeColor, 1200);]]></content>
       
     </entry>
     
@@ -140,11 +151,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/js/light.js"/>
-      <url>/js/light.js</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[// 霓虹灯效果// 颜色数组var arr = ["#39c5bb", "#f14747", "#f1a247", "#f1ee47", "#b347f1", "#1edbff", "#ed709b", "#5636ed"];// 颜色索引var idx = 0;// 切换颜色function changeColor() {    // 仅夜间模式才启用    if (document.getElementsByTagName('html')[0].getAttribute('data-theme') == 'dark') {        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = arr[idx] + " 0 0 10px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = arr[idx] + " 0 0 5px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = arr[idx] + " 0 0 12px";            document.getElementsByClassName("author-info__description")[0].style.textShadow = arr[idx] + " 0 0 12px";        } catch {                    }        idx++;        if (idx == 8) {            idx = 0;        }    } else {        // 白天模式恢复默认        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = "#1e1e1ee0 1px 1px 1px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = "";            document.getElementsByClassName("author-info__description")[0].style.textShadow = "";        } catch {                    }    }}// 开启计时器window.onload = setInterval(changeColor, 1200);]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -173,17 +184,6 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>uk</title>
       <link href="/uk/index.html"/>
       <url>/uk/index.html</url>
@@ -199,7 +199,7 @@
       <link href="/gallery/triviality/index.html"/>
       <url>/gallery/triviality/index.html</url>
       
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221212112509.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125091.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125092.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125093.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125094.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125095.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125096.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125097.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125098.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125099.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250910.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250911.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250912.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250913.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250914.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250915.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250916.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250917.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250918.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250919.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250920.jpg" alt></p>          </div>]]></content>
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="/gallery/triviality/img/微信图片_20221212112509.jpg" alt><br><img src="/gallery/triviality/img/微信图片_202212121125091.jpg" alt><br><img src="/gallery/triviality/img/微信图片_202212121125092.jpg" alt><br><img src="/gallery/triviality/img/微信图片_202212121125093.jpg" alt><br><img src="/gallery/triviality/img/微信图片_202212121125094.jpg" alt><br><img src="/gallery/triviality/img/微信图片_202212121125095.jpg" alt><br><img src="/gallery/triviality/img/微信图片_202212121125096.jpg" alt><br><img src="/gallery/triviality/img/微信图片_202212121125097.jpg" alt><br><img src="/gallery/triviality/img/微信图片_202212121125098.jpg" alt><br><img src="/gallery/triviality/img/微信图片_202212121125099.jpg" alt><br><img src="/gallery/triviality/img/微信图片_2022121211250910.jpg" alt><br><img src="/gallery/triviality/img/微信图片_2022121211250911.jpg" alt><br><img src="/gallery/triviality/img/微信图片_2022121211250912.jpg" alt><br><img src="/gallery/triviality/img/微信图片_2022121211250913.jpg" alt><br><img src="/gallery/triviality/img/微信图片_2022121211250914.jpg" alt><br><img src="/gallery/triviality/img/微信图片_2022121211250915.jpg" alt><br><img src="/gallery/triviality/img/微信图片_2022121211250916.jpg" alt><br><img src="/gallery/triviality/img/微信图片_2022121211250917.jpg" alt><br><img src="/gallery/triviality/img/微信图片_2022121211250918.jpg" alt><br><img src="/gallery/triviality/img/微信图片_2022121211250919.jpg" alt><br><img src="/gallery/triviality/img/微信图片_2022121211250920.jpg" alt></p>          </div>]]></content>
       
     </entry>
     
