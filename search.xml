@@ -46,7 +46,7 @@
       <link href="/2022/12/08/UK/"/>
       <url>/2022/12/08/UK/</url>
       
-        <content type="html"><![CDATA[<div class="wow animate__slideInRight" data-wow-duration="2s" data-wow-delay="0.5s" data-wow-offset data-wow-iteration><div class="note orange icon-padding modern"><i class="note-icon fas fa-car"></i><p>First Glance</p></div></div><p><img src="/2022/12/08/UK/1.jpg" alt><br><img src="/2022/12/08/UK/2.jpg" alt><br><img src="/2022/12/08/UK/3.jpg" alt><br><img src="/2022/12/08/UK/4.jpg" alt><br><img src="/2022/12/08/UK/5.jpg" alt><br><img src="/2022/12/08/UK/6.jpg" alt><br><img src="/2022/12/08/UK/7.jpg" alt><br><img src="/2022/12/08/UK/8.jpg" alt><br><img src="/2022/12/08/UK/9.jpg" alt><br><img src="/2022/12/08/UK/10.jpg" alt><br><img src="/2022/12/08/UK/11.jpg" alt></p><p>You know me well!</p>]]></content>
+        <content type="html"><![CDATA[<div class="wow animate__slideInRight" data-wow-duration="2s" data-wow-delay="0.5s" data-wow-offset data-wow-iteration><div class="note orange icon-padding modern"><i class="note-icon fas fa-car"></i><p>First Glance</p></div></div><p><img src="/2022/12/08/UK/2.jpg" alt><br><img src="/2022/12/08/UK/3.jpg" alt><br><img src="/2022/12/08/UK/4.jpg" alt><br><img src="/2022/12/08/UK/5.jpg" alt><br><img src="/2022/12/08/UK/6.jpg" alt><br><img src="/2022/12/08/UK/7.jpg" alt><br><img src="/2022/12/08/UK/8.jpg" alt><br><img src="/2022/12/08/UK/9.jpg" alt><br><img src="/2022/12/08/UK/10.jpg" alt><br><img src="/2022/12/08/UK/11.jpg" alt></p><p>You know me well!</p>]]></content>
       
       
       
@@ -88,33 +88,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/comeon.css"/>
-      <url>/css/comeon.css</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[:root {  --trans-light: rgba(255, 255, 255, 0.88);  --trans-dark: rgba(25, 25, 25, 0.88);  --border-style: 1px solid rgb(169, 169, 169);  --backdrop-filter: blur(5px) saturate(150%);}/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }  /* 侧边栏个人信息卡片动态渐变色 */#aside-content > .card-widget.card-info {  background: linear-gradient(    -45deg,    #a5a58d,    #b7b7a4,    #ffe8d6,    #ddbea9,    #cb997e  );  box-shadow: 0 0 5px rgb(66, 68, 68);  position: relative;  background-size: 400% 400%;  -webkit-animation: Gradient 10s ease infinite;  -moz-animation: Gradient 10s ease infinite;  animation: Gradient 10s ease infinite !important;}@-webkit-keyframes Gradient {  0% {    background-position: 0% 50%;  }  50% {    background-position: 100% 50%;  }  100% {    background-position: 0% 50%;  }}@-moz-keyframes Gradient {  0% {    background-position: 0% 50%;  }  50% {    background-position: 100% 50%;  }  100% {    background-position: 0% 50%;  }}@keyframes Gradient {  0% {    background-position: 0% 50%;  }  50% {    background-position: 100% 50%;  }  100% {    background-position: 0% 50%;  }}/* 黑夜模式适配 */[data-theme="dark"] #aside-content > .card-widget.card-info {  background: #191919ee;}/* 个人信息Follow me按钮 */#aside-content > .card-widget.card-info > #card-info-btn {  background-color: #3eb8be;  border-radius: 8px;}/* 鼠标样式 */#cursor {  position: fixed;  width: 16px;  height: 16px;  /* 这里改变跟随的底色 */  background: rgb(209, 66, 212);  border-radius: 8px;  opacity: 0.25;  z-index: 10086;  pointer-events: none;  transition: 0.2s ease-in-out;  transition-property: background, opacity, transform;}#cursor.hidden {  opacity: 0;}#cursor.hover {  opacity: 0.1;  transform: scale(2.5);  -webkit-transform: scale(2.5);  -moz-transform: scale(2.5);  -ms-transform: scale(2.5);  -o-transform: scale(2.5);}#cursor.active {  opacity: 0.5;  transform: scale(0.5);  -webkit-transform: scale(0.5);  -moz-transform: scale(0.5);  -ms-transform: scale(0.5);  -o-transform: scale(0.5);}/* 首页文章卡片 */#recent-posts > .recent-post-item {  background: var(--trans-light);  backdrop-filter: var(--backdrop-filter);  border-radius: 25px;  border: var(--border-style);}/* 首页侧栏卡片 */#aside-content .card-widget {  background: var(--trans-light);  backdrop-filter: var(--backdrop-filter);  border-radius: 18px;  border: var(--border-style);}/* 文章页、归档页、普通页面 */div#post,div#page,div#archive {  background: var(--trans-light);  backdrop-filter: var(--backdrop-filter);  border: var(--border-style);  border-radius: 20px;}/* 导航栏 */#page-header.nav-fixed #nav {  background: rgba(255, 255, 255, 0.75);  backdrop-filter: var(--backdrop-filter);}[data-theme="dark"] #page-header.nav-fixed #nav {  background: rgba(0, 0, 0, 0.7) !important;}/* 夜间模式遮罩 */[data-theme="dark"] #recent-posts > .recent-post-item,[data-theme="dark"] #aside-content .card-widget,[data-theme="dark"] div#post,[data-theme="dark"] div#archive,[data-theme="dark"] div#page {  background: var(--trans-dark);}/* 夜间模式页脚页头遮罩透明 */[data-theme="dark"] #footer::before {  background: transparent !important;}[data-theme="dark"] #page-header::before {  background: transparent !important;}/* 阅读模式 */.read-mode #aside-content .card-widget {  background: rgba(158, 204, 171, 0.5) !important;}.read-mode div#post {  background: rgba(158, 204, 171, 0.5) !important;}/* 夜间模式下的阅读模式 */[data-theme="dark"] .read-mode #aside-content .card-widget {  background: rgba(25, 25, 25, 0.9) !important;  color: #ffffff;}[data-theme="dark"] .read-mode div#post {  background: rgba(25, 25, 25, 0.9) !important;  color: #ffffff;}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/my.css"/>
-      <url>/css/my.css</url>
-      
-        <content type="html"><![CDATA[/*指针样式*/body {    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur),        default;}/*链接小手样式*/a,img {    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/pointer.cur),        default;}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/progress_bar.css"/>
-      <url>/css/progress_bar.css</url>
-      
-        <content type="html"><![CDATA[.pace {    -webkit-pointer-events: none;    pointer-events: none;    -webkit-user-select: none;    -moz-user-select: none;    user-select: none;    z-index: 2000;    position: fixed;    margin: auto;    top: 4px;    left: 0;    right: 0;    height: 8px;    border-radius: 8px;    width: 7rem;    background: #eaecf2;    border: 1px #e3e8f7;    overflow: hidden}.pace-inactive .pace-progress {    opacity: 0;    transition: .3s ease-in}.pace .pace-progress {    -webkit-box-sizing: border-box;    -moz-box-sizing: border-box;    -ms-box-sizing: border-box;    -o-box-sizing: border-box;    box-sizing: border-box;    -webkit-transform: translate3d(0, 0, 0);    -moz-transform: translate3d(0, 0, 0);    -ms-transform: translate3d(0, 0, 0);    -o-transform: translate3d(0, 0, 0);    transform: translate3d(0, 0, 0);    max-width: 200px;    position: absolute;    z-index: 2000;    display: block;    top: 0;    right: 100%;    height: 100%;    width: 100%;    /* linear-gradient(to right, #3494e6, #ec6ead) */    background: linear-gradient(to right, #43cea2, #3866ca);    animation: gradient 2s ease infinite;    background-size: 200%}.pace.pace-inactive {    opacity: 0;    transition: .3s;    top: -8px}]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -132,33 +110,33 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title></title>
+      <link href="/css/comeon.css"/>
+      <url>/css/comeon.css</url>
       
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>杂七杂八</title>
-      <link href="/gallery/index.html"/>
-      <url>/gallery/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="https://s2.loli.net/2022/12/12/dfFWyGV3Qc91UOK.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">杂久杂拾</div>  <p>水有三沸，心难再倾</p>  <a href="/gallery/triviality"></a>  </figcaption>  </figure>  </div>]]></content>
+        <content type="html"><![CDATA[:root {  --trans-light: rgba(255, 255, 255, 0.88);  --trans-dark: rgba(25, 25, 25, 0.88);  --border-style: 1px solid rgb(169, 169, 169);  --backdrop-filter: blur(5px) saturate(150%);}/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }  /* 侧边栏个人信息卡片动态渐变色 */#aside-content > .card-widget.card-info {  background: linear-gradient(    -45deg,    #a5a58d,    #b7b7a4,    #ffe8d6,    #ddbea9,    #cb997e  );  box-shadow: 0 0 5px rgb(66, 68, 68);  position: relative;  background-size: 400% 400%;  -webkit-animation: Gradient 10s ease infinite;  -moz-animation: Gradient 10s ease infinite;  animation: Gradient 10s ease infinite !important;}@-webkit-keyframes Gradient {  0% {    background-position: 0% 50%;  }  50% {    background-position: 100% 50%;  }  100% {    background-position: 0% 50%;  }}@-moz-keyframes Gradient {  0% {    background-position: 0% 50%;  }  50% {    background-position: 100% 50%;  }  100% {    background-position: 0% 50%;  }}@keyframes Gradient {  0% {    background-position: 0% 50%;  }  50% {    background-position: 100% 50%;  }  100% {    background-position: 0% 50%;  }}/* 黑夜模式适配 */[data-theme="dark"] #aside-content > .card-widget.card-info {  background: #191919ee;}/* 个人信息Follow me按钮 */#aside-content > .card-widget.card-info > #card-info-btn {  background-color: #3eb8be;  border-radius: 8px;}/* 鼠标样式 */#cursor {  position: fixed;  width: 16px;  height: 16px;  /* 这里改变跟随的底色 */  background: rgb(209, 66, 212);  border-radius: 8px;  opacity: 0.25;  z-index: 10086;  pointer-events: none;  transition: 0.2s ease-in-out;  transition-property: background, opacity, transform;}#cursor.hidden {  opacity: 0;}#cursor.hover {  opacity: 0.1;  transform: scale(2.5);  -webkit-transform: scale(2.5);  -moz-transform: scale(2.5);  -ms-transform: scale(2.5);  -o-transform: scale(2.5);}#cursor.active {  opacity: 0.5;  transform: scale(0.5);  -webkit-transform: scale(0.5);  -moz-transform: scale(0.5);  -ms-transform: scale(0.5);  -o-transform: scale(0.5);}/* 首页文章卡片 */#recent-posts > .recent-post-item {  background: var(--trans-light);  backdrop-filter: var(--backdrop-filter);  border-radius: 25px;  border: var(--border-style);}/* 首页侧栏卡片 */#aside-content .card-widget {  background: var(--trans-light);  backdrop-filter: var(--backdrop-filter);  border-radius: 18px;  border: var(--border-style);}/* 文章页、归档页、普通页面 */div#post,div#page,div#archive {  background: var(--trans-light);  backdrop-filter: var(--backdrop-filter);  border: var(--border-style);  border-radius: 20px;}/* 导航栏 */#page-header.nav-fixed #nav {  background: rgba(255, 255, 255, 0.75);  backdrop-filter: var(--backdrop-filter);}[data-theme="dark"] #page-header.nav-fixed #nav {  background: rgba(0, 0, 0, 0.7) !important;}/* 夜间模式遮罩 */[data-theme="dark"] #recent-posts > .recent-post-item,[data-theme="dark"] #aside-content .card-widget,[data-theme="dark"] div#post,[data-theme="dark"] div#archive,[data-theme="dark"] div#page {  background: var(--trans-dark);}/* 夜间模式页脚页头遮罩透明 */[data-theme="dark"] #footer::before {  background: transparent !important;}[data-theme="dark"] #page-header::before {  background: transparent !important;}/* 阅读模式 */.read-mode #aside-content .card-widget {  background: rgba(158, 204, 171, 0.5) !important;}.read-mode div#post {  background: rgba(158, 204, 171, 0.5) !important;}/* 夜间模式下的阅读模式 */[data-theme="dark"] .read-mode #aside-content .card-widget {  background: rgba(25, 25, 25, 0.9) !important;  color: #ffffff;}[data-theme="dark"] .read-mode div#post {  background: rgba(25, 25, 25, 0.9) !important;  color: #ffffff;}]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>友情链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title></title>
+      <link href="/css/progress_bar.css"/>
+      <url>/css/progress_bar.css</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[.pace {    -webkit-pointer-events: none;    pointer-events: none;    -webkit-user-select: none;    -moz-user-select: none;    user-select: none;    z-index: 2000;    position: fixed;    margin: auto;    top: 4px;    left: 0;    right: 0;    height: 8px;    border-radius: 8px;    width: 7rem;    background: #eaecf2;    border: 1px #e3e8f7;    overflow: hidden}.pace-inactive .pace-progress {    opacity: 0;    transition: .3s ease-in}.pace .pace-progress {    -webkit-box-sizing: border-box;    -moz-box-sizing: border-box;    -ms-box-sizing: border-box;    -o-box-sizing: border-box;    box-sizing: border-box;    -webkit-transform: translate3d(0, 0, 0);    -moz-transform: translate3d(0, 0, 0);    -ms-transform: translate3d(0, 0, 0);    -o-transform: translate3d(0, 0, 0);    transform: translate3d(0, 0, 0);    max-width: 200px;    position: absolute;    z-index: 2000;    display: block;    top: 0;    right: 100%;    height: 100%;    width: 100%;    /* linear-gradient(to right, #3494e6, #ec6ead) */    background: linear-gradient(to right, #43cea2, #3866ca);    animation: gradient 2s ease infinite;    background-size: 200%}.pace.pace-inactive {    opacity: 0;    transition: .3s;    top: -8px}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/my.css"/>
+      <url>/css/my.css</url>
+      
+        <content type="html"><![CDATA[/*指针样式*/body {    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur),        default;}/*链接小手样式*/a,img {    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/pointer.cur),        default;}]]></content>
       
     </entry>
     
@@ -177,10 +155,21 @@
     
     <entry>
       <title></title>
-      <link href="/js/light.js"/>
-      <url>/js/light.js</url>
+      <link href="/self/purple.css"/>
+      <url>/self/purple.css</url>
       
-        <content type="html"><![CDATA[// 霓虹灯效果// 颜色数组var arr = ["#39c5bb", "#f14747", "#f1a247", "#f1ee47", "#b347f1", "#1edbff", "#ed709b", "#5636ed"];// 颜色索引var idx = 0;// 切换颜色function changeColor() {    // 仅夜间模式才启用    if (document.getElementsByTagName('html')[0].getAttribute('data-theme') == 'dark') {        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = arr[idx] + " 0 0 10px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = arr[idx] + " 0 0 5px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = arr[idx] + " 0 0 12px";            document.getElementsByClassName("author-info__description")[0].style.textShadow = arr[idx] + " 0 0 12px";        } catch {                    }        idx++;        if (idx == 8) {            idx = 0;        }    } else {        // 白天模式恢复默认        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = "#1e1e1ee0 1px 1px 1px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = "";            document.getElementsByClassName("author-info__description")[0].style.textShadow = "";        } catch {                    }    }}// 开启计时器window.onload = setInterval(changeColor, 1200);]]></content>
+        <content type="html"><![CDATA[/** * Shades of Purple Theme for Prism.js * * @author Ahmad Awais <https: twitter.com mrahmadawais> * @support Follow/tweet at https://twitter.com/MrAhmadAwais/ */ /* 新添加的内容 -------------------------------------  --hl-color                  代码框字体顔色 【必须】 (把下面 pre[class*="language-"]的 color 复制到这里来) --hl-bg                     代码框背景色 【必须】 (把下面 pre[class*="language-"]的 background复制到这里来) --hltools-bg: #321a0f       代码框顶部工具栏背景色 【可选】(如果你关掉了 copy、lang 和 shrink,可不用配置这个） --hltools-color: #fff       代码框顶部工具栏字体顔色 【可选】(如果你关掉了 copy、lang 和 shrink,可不用配置这个） --hlnumber-bg: #221a0f      代码框行数背景色 【可选】(如果已经关掉 line_number,可以不用配置这个) --hlnumber-color: #fff      代码框行数字体顔色 【可选】 (如果已经关掉 line_number,可以不用配置这个) --hlscrollbar-bg: #d3af86   代码框滚动条顔色 【可选】（默认为主题主顔色） --hlexpand-bg: #d3af86      代码框底部展开背景色 【可选】(如果已经关掉 highlight_height_limit,可以不用配置这个)*/:root { --hl-color: #9efeff; --hl-bg: #a599e9; --hltools-bg: #B06500; --hltools-color: xxxxxxx; --hlnumber-bg: xxxxxxx; --hlnumber-color: xxxxxxxx; --hlscrollbar-bg: #B06500; --hlexpand-bg: #588157}/* ------------------------------------- */ code[class*='language-'], pre[class*='language-'] {     color: #9efeff;     direction: ltr;     text-align: left;     white-space: pre;     word-spacing: normal;     word-break: normal;      -moz-tab-size: 4;     -o-tab-size: 4;     tab-size: 4;      -webkit-hyphens: none;     -moz-hyphens: none;     -ms-hyphens: none;     hyphens: none;      font-family: 'Operator Mono', 'Fira Code', Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;     font-weight: 400;     font-size: 17px;     line-height: 25px;     letter-spacing: 0.5px;     text-shadow: 0 1px #222245; }  pre[class*='language-']::-moz-selection, pre[class*='language-'] ::-moz-selection, code[class*='language-']::-moz-selection, code[class*='language-'] ::-moz-selection, pre[class*='language-']::selection, pre[class*='language-'] ::selection, code[class*='language-']::selection, code[class*='language-'] ::selection {     color: inherit;     background: #a599e9; }  /* Code blocks. */ pre[class*='language-'] {     padding: 2em;     margin: 0.5em 0;     overflow: auto; }  :not(pre) > code[class*='language-'], pre[class*='language-'] {     background: #1e1e3f; }  /* Inline code */ :not(pre) > code[class*='language-'] {     padding: 0.1em;     border-radius: 0.3em; }  .token {     font-weight: 400; }  .token.comment, .token.prolog, .token.cdata {     color: #b362ff; }  .token.delimiter, .token.keyword, .token.selector, .token.important, .token.atrule {     color: #ff9d00; }  .token.operator, .token.attr-name {     color: rgb(255, 180, 84); }  .token.punctuation {     color: #ffffff; }  .token.boolean {     color: rgb(255, 98, 140); }  .token.tag, .token.tag .punctuation, .token.doctype, .token.builtin {     color: rgb(255, 157, 0); }  .token.entity, .token.symbol {     color: #6897bb; }  .token.number {     color: #ff628c; }  .token.property, .token.constant, .token.variable {     color: #ff628c; }  .token.string, .token.char {     color: #a5ff90; }  .token.attr-value, .token.attr-value .punctuation {     color: #a5c261; }  .token.attr-value .punctuation:first-child {     color: #a9b7c6; }  .token.url {     color: #287bde;     text-decoration: underline; }  .token.function {     color: rgb(250, 208, 0); }  .token.regex {     background: #364135; }  .token.bold {     font-weight: bold; }  .token.italic {     font-style: italic; }  .token.inserted {     background: #00ff00; }  .token.deleted {     background: #ff000d; }  code.language-css .token.property, code.language-css .token.property + .token.punctuation {     color: #a9b7c6; }  code.language-css .token.id {     color: #ffc66d; }  code.language-css .token.selector > .token.class, code.language-css .token.selector > .token.attribute, code.language-css .token.selector > .token.pseudo-class, code.language-css .token.selector > .token.pseudo-element {     color: #ffc66d; }  .token.class-name {     color: #fb94ff; }  .token.operator, .token.entity, .token.url, .language-css .token.string, .style .token.string {     background: none; }  .line-highlight.line-highlight {     margin-top: 36px;     background: linear-gradient(to right, rgba(179, 98, 255, 0.17), transparent); }  .line-highlight.line-highlight:before, .line-highlight.line-highlight[data-end]:after {     content: ''; }</https:>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -188,10 +177,10 @@
     
     <entry>
       <title></title>
-      <link href="/self/purple.css"/>
-      <url>/self/purple.css</url>
+      <link href="/js/light.js"/>
+      <url>/js/light.js</url>
       
-        <content type="html"><![CDATA[/** * Shades of Purple Theme for Prism.js * * @author Ahmad Awais <https: twitter.com mrahmadawais> * @support Follow/tweet at https://twitter.com/MrAhmadAwais/ */ /* 新添加的内容 -------------------------------------  --hl-color                  代码框字体顔色 【必须】 (把下面 pre[class*="language-"]的 color 复制到这里来) --hl-bg                     代码框背景色 【必须】 (把下面 pre[class*="language-"]的 background复制到这里来) --hltools-bg: #321a0f       代码框顶部工具栏背景色 【可选】(如果你关掉了 copy、lang 和 shrink,可不用配置这个） --hltools-color: #fff       代码框顶部工具栏字体顔色 【可选】(如果你关掉了 copy、lang 和 shrink,可不用配置这个） --hlnumber-bg: #221a0f      代码框行数背景色 【可选】(如果已经关掉 line_number,可以不用配置这个) --hlnumber-color: #fff      代码框行数字体顔色 【可选】 (如果已经关掉 line_number,可以不用配置这个) --hlscrollbar-bg: #d3af86   代码框滚动条顔色 【可选】（默认为主题主顔色） --hlexpand-bg: #d3af86      代码框底部展开背景色 【可选】(如果已经关掉 highlight_height_limit,可以不用配置这个)*/:root { --hl-color: #9efeff; --hl-bg: #a599e9; --hltools-bg: #B06500; --hltools-color: xxxxxxx; --hlnumber-bg: xxxxxxx; --hlnumber-color: xxxxxxxx; --hlscrollbar-bg: #B06500; --hlexpand-bg: #588157}/* ------------------------------------- */ code[class*='language-'], pre[class*='language-'] {     color: #9efeff;     direction: ltr;     text-align: left;     white-space: pre;     word-spacing: normal;     word-break: normal;      -moz-tab-size: 4;     -o-tab-size: 4;     tab-size: 4;      -webkit-hyphens: none;     -moz-hyphens: none;     -ms-hyphens: none;     hyphens: none;      font-family: 'Operator Mono', 'Fira Code', Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;     font-weight: 400;     font-size: 17px;     line-height: 25px;     letter-spacing: 0.5px;     text-shadow: 0 1px #222245; }  pre[class*='language-']::-moz-selection, pre[class*='language-'] ::-moz-selection, code[class*='language-']::-moz-selection, code[class*='language-'] ::-moz-selection, pre[class*='language-']::selection, pre[class*='language-'] ::selection, code[class*='language-']::selection, code[class*='language-'] ::selection {     color: inherit;     background: #a599e9; }  /* Code blocks. */ pre[class*='language-'] {     padding: 2em;     margin: 0.5em 0;     overflow: auto; }  :not(pre) > code[class*='language-'], pre[class*='language-'] {     background: #1e1e3f; }  /* Inline code */ :not(pre) > code[class*='language-'] {     padding: 0.1em;     border-radius: 0.3em; }  .token {     font-weight: 400; }  .token.comment, .token.prolog, .token.cdata {     color: #b362ff; }  .token.delimiter, .token.keyword, .token.selector, .token.important, .token.atrule {     color: #ff9d00; }  .token.operator, .token.attr-name {     color: rgb(255, 180, 84); }  .token.punctuation {     color: #ffffff; }  .token.boolean {     color: rgb(255, 98, 140); }  .token.tag, .token.tag .punctuation, .token.doctype, .token.builtin {     color: rgb(255, 157, 0); }  .token.entity, .token.symbol {     color: #6897bb; }  .token.number {     color: #ff628c; }  .token.property, .token.constant, .token.variable {     color: #ff628c; }  .token.string, .token.char {     color: #a5ff90; }  .token.attr-value, .token.attr-value .punctuation {     color: #a5c261; }  .token.attr-value .punctuation:first-child {     color: #a9b7c6; }  .token.url {     color: #287bde;     text-decoration: underline; }  .token.function {     color: rgb(250, 208, 0); }  .token.regex {     background: #364135; }  .token.bold {     font-weight: bold; }  .token.italic {     font-style: italic; }  .token.inserted {     background: #00ff00; }  .token.deleted {     background: #ff000d; }  code.language-css .token.property, code.language-css .token.property + .token.punctuation {     color: #a9b7c6; }  code.language-css .token.id {     color: #ffc66d; }  code.language-css .token.selector > .token.class, code.language-css .token.selector > .token.attribute, code.language-css .token.selector > .token.pseudo-class, code.language-css .token.selector > .token.pseudo-element {     color: #ffc66d; }  .token.class-name {     color: #fb94ff; }  .token.operator, .token.entity, .token.url, .language-css .token.string, .style .token.string {     background: none; }  .line-highlight.line-highlight {     margin-top: 36px;     background: linear-gradient(to right, rgba(179, 98, 255, 0.17), transparent); }  .line-highlight.line-highlight:before, .line-highlight.line-highlight[data-end]:after {     content: ''; }</https:>]]></content>
+        <content type="html"><![CDATA[// 霓虹灯效果// 颜色数组var arr = ["#39c5bb", "#f14747", "#f1a247", "#f1ee47", "#b347f1", "#1edbff", "#ed709b", "#5636ed"];// 颜色索引var idx = 0;// 切换颜色function changeColor() {    // 仅夜间模式才启用    if (document.getElementsByTagName('html')[0].getAttribute('data-theme') == 'dark') {        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = arr[idx] + " 0 0 10px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = arr[idx] + " 0 0 5px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = arr[idx] + " 0 0 12px";            document.getElementsByClassName("author-info__description")[0].style.textShadow = arr[idx] + " 0 0 12px";        } catch {                    }        idx++;        if (idx == 8) {            idx = 0;        }    } else {        // 白天模式恢复默认        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = "#1e1e1ee0 1px 1px 1px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = "";            document.getElementsByClassName("author-info__description")[0].style.textShadow = "";        } catch {                    }    }}// 开启计时器window.onload = setInterval(changeColor, 1200);]]></content>
       
     </entry>
     
@@ -209,6 +198,17 @@
     
     
     <entry>
+      <title>杂久杂实</title>
+      <link href="/gallery/triviality/index.html"/>
+      <url>/gallery/triviality/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221212112509.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125091.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125092.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125093.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125094.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125095.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125096.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125097.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125098.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125099.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250910.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250911.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250912.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250913.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250914.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250915.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250916.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250917.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250918.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250919.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250920.jpg" alt></p>          </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>uk</title>
       <link href="/uk/index.html"/>
       <url>/uk/index.html</url>
@@ -220,11 +220,11 @@
     
     
     <entry>
-      <title>杂久杂实</title>
-      <link href="/gallery/triviality/index.html"/>
-      <url>/gallery/triviality/index.html</url>
+      <title>杂七杂八</title>
+      <link href="/gallery/index.html"/>
+      <url>/gallery/index.html</url>
       
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221212112509.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125091.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125092.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125093.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125094.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125095.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125096.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125097.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125098.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202212121125099.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250910.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250911.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250912.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250913.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250914.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250915.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250916.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250917.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250918.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250919.jpg" alt><br><img src="/gallery/triviality/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2022121211250920.jpg" alt></p>          </div>]]></content>
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="https://s2.loli.net/2022/12/12/dfFWyGV3Qc91UOK.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">杂久杂拾</div>  <p>水有三沸，心难再倾</p>  <a href="/gallery/triviality"></a>  </figcaption>  </figure>  </div>]]></content>
       
     </entry>
     
