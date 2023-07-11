@@ -8,7 +8,7 @@
       <link href="/2023/07/11/%E4%B8%8A%E5%8D%8A%E5%B9%B4/"/>
       <url>/2023/07/11/%E4%B8%8A%E5%8D%8A%E5%B9%B4/</url>
       
-        <content type="html"><![CDATA[<h3 id="swig￼0"><span class="p center logo large">值得记录的回忆</span></h3><div class="note default modern"><p>其实没什么想写的，只是实习摸鱼罢了</p></div><details class="folding-tag" cyan open><summary> 无聊试一试butterfly的新外挂标签 </summary>              <div class="content">              <div class="poem"><div class="poem-title">送郑少府入辽共赋侠客远从戎</div><div class="poem-author">骆宾王</div><p>边烽警榆塞，侠客度桑乾。<br>柳叶开银镝，桃花照玉鞍。<br>满月临弓影，连星入剑端。<br>不学燕丹客，徒歌易水寒。。</p></div>              </div>            </details><hr><h3 id="写在最后">写在最后</h3><p>笔记写了又写，事情做了又做，还有许多有待完成。<br>感触最深的是有得必有失，最后一学年本想选一些感兴趣的选修课，因为培养计划亟需赶着完成而搁置。希望半年以后能开开心心地写下另一篇blog。</p><div class="progress"><div class="progress-bar-animated progress-bar progress-bar-striped bg-cyan" style="width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"><p>进度条样式预览</p></div></div>]]></content>
+        <content type="html"><![CDATA[<h3 id="swig￼0"><span class="p center logo large">值得记录的回忆</span></h3><div class="note default modern"><p>其实没什么想写的，只是实习摸鱼罢了</p></div><details class="folding-tag" cyan open><summary> 无聊试一试butterfly的新外挂标签 </summary>              <div class="content">              <div class="poem"><div class="poem-title">送郑少府入辽共赋侠客远从戎</div><div class="poem-author">骆宾王</div><p>边烽警榆塞，侠客度桑乾。<br>柳叶开银镝，桃花照玉鞍。<br>满月临弓影，连星入剑端。<br>不学燕丹客，徒歌易水寒。</p></div>              </div>            </details><hr><h3 id="写在最后">写在最后</h3><p>笔记写了又写，事情做了又做，还有许多有待完成。<br>感触最深的是有得必有失，最后一学年本想选一些感兴趣的选修课，因为培养计划亟需赶着完成而搁置。希望半年以后能开开心心地写下另一篇blog。</p><div class="progress"><div class="progress-bar-animated progress-bar progress-bar-striped bg-cyan" style="width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"><p>直道塞车中</p></div></div>]]></content>
       
       
       
@@ -232,33 +232,11 @@
     
     
     <entry>
-      <title>comments</title>
-      <link href="/comments/index.html"/>
-      <url>/comments/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
       <link href="/css/comeon.css"/>
       <url>/css/comeon.css</url>
       
         <content type="html"><![CDATA[:root {  --trans-light: rgba(255, 255, 255, 0.88);  --trans-dark: rgba(25, 25, 25, 0.88);  --border-style: 1px solid rgb(169, 169, 169);  --backdrop-filter: blur(5px) saturate(150%);}/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }  /* 侧边栏个人信息卡片动态渐变色 */#aside-content > .card-widget.card-info {  background: linear-gradient(    -45deg,    #a5a58d,    #b7b7a4,    #ffe8d6,    #ddbea9,    #cb997e  );  box-shadow: 0 0 5px rgb(66, 68, 68);  position: relative;  background-size: 400% 400%;  -webkit-animation: Gradient 10s ease infinite;  -moz-animation: Gradient 10s ease infinite;  animation: Gradient 10s ease infinite !important;}@-webkit-keyframes Gradient {  0% {    background-position: 0% 50%;  }  50% {    background-position: 100% 50%;  }  100% {    background-position: 0% 50%;  }}@-moz-keyframes Gradient {  0% {    background-position: 0% 50%;  }  50% {    background-position: 100% 50%;  }  100% {    background-position: 0% 50%;  }}@keyframes Gradient {  0% {    background-position: 0% 50%;  }  50% {    background-position: 100% 50%;  }  100% {    background-position: 0% 50%;  }}/* 黑夜模式适配 */[data-theme="dark"] #aside-content > .card-widget.card-info {  background: #191919ee;}/* 个人信息Follow me按钮 */#aside-content > .card-widget.card-info > #card-info-btn {  background-color: #3eb8be;  border-radius: 8px;}/* 鼠标样式 */#cursor {  position: fixed;  width: 16px;  height: 16px;  /* 这里改变跟随的底色 */  background: rgb(209, 66, 212);  border-radius: 8px;  opacity: 0.25;  z-index: 10086;  pointer-events: none;  transition: 0.2s ease-in-out;  transition-property: background, opacity, transform;}#cursor.hidden {  opacity: 0;}#cursor.hover {  opacity: 0.1;  transform: scale(2.5);  -webkit-transform: scale(2.5);  -moz-transform: scale(2.5);  -ms-transform: scale(2.5);  -o-transform: scale(2.5);}#cursor.active {  opacity: 0.5;  transform: scale(0.5);  -webkit-transform: scale(0.5);  -moz-transform: scale(0.5);  -ms-transform: scale(0.5);  -o-transform: scale(0.5);}/* 首页文章卡片 */#recent-posts > .recent-post-item {  background: var(--trans-light);  backdrop-filter: var(--backdrop-filter);  border-radius: 25px;  border: var(--border-style);}/* 首页侧栏卡片 */#aside-content .card-widget {  background: var(--trans-light);  backdrop-filter: var(--backdrop-filter);  border-radius: 18px;  border: var(--border-style);}/* 文章页、归档页、普通页面 */div#post,div#page,div#archive {  background: var(--trans-light);  backdrop-filter: var(--backdrop-filter);  border: var(--border-style);  border-radius: 20px;}/* 导航栏 */#page-header.nav-fixed #nav {  background: rgba(255, 255, 255, 0.75);  backdrop-filter: var(--backdrop-filter);}[data-theme="dark"] #page-header.nav-fixed #nav {  background: rgba(0, 0, 0, 0.7) !important;}/* 夜间模式遮罩 */[data-theme="dark"] #recent-posts > .recent-post-item,[data-theme="dark"] #aside-content .card-widget,[data-theme="dark"] div#post,[data-theme="dark"] div#archive,[data-theme="dark"] div#page {  background: var(--trans-dark);}/* 夜间模式页脚页头遮罩透明 */[data-theme="dark"] #footer::before {  background: transparent !important;}[data-theme="dark"] #page-header::before {  background: transparent !important;}/* 阅读模式 */.read-mode #aside-content .card-widget {  background: rgba(158, 204, 171, 0.5) !important;}.read-mode div#post {  background: rgba(158, 204, 171, 0.5) !important;}/* 夜间模式下的阅读模式 */[data-theme="dark"] .read-mode #aside-content .card-widget {  background: rgba(25, 25, 25, 0.9) !important;  color: #ffffff;}[data-theme="dark"] .read-mode div#post {  background: rgba(25, 25, 25, 0.9) !important;  color: #ffffff;}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/my.css"/>
-      <url>/css/my.css</url>
-      
-        <content type="html"><![CDATA[/*指针样式*/body {    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur),        default;}/*链接小手样式*/a,img {    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/pointer.cur),        default;}]]></content>
       
     </entry>
     
@@ -276,22 +254,22 @@
     
     
     <entry>
-      <title>杂七杂八</title>
-      <link href="/gallery/index.html"/>
-      <url>/gallery/index.html</url>
+      <title></title>
+      <link href="/css/my.css"/>
+      <url>/css/my.css</url>
       
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="https://s2.loli.net/2022/12/12/dfFWyGV3Qc91UOK.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">杂久杂拾</div>  <p>水有三沸，心难再倾</p>  <a href="/gallery/triviality"></a>  </figcaption>  </figure>  </div>]]></content>
+        <content type="html"><![CDATA[/*指针样式*/body {    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur),        default;}/*链接小手样式*/a,img {    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/pointer.cur),        default;}]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title></title>
-      <link href="/js/light.js"/>
-      <url>/js/light.js</url>
+      <title>comments</title>
+      <link href="/comments/index.html"/>
+      <url>/comments/index.html</url>
       
-        <content type="html"><![CDATA[// 霓虹灯效果// 颜色数组var arr = ["#39c5bb", "#f14747", "#f1a247", "#f1ee47", "#b347f1", "#1edbff", "#ed709b", "#5636ed"];// 颜色索引var idx = 0;// 切换颜色function changeColor() {    // 仅夜间模式才启用    if (document.getElementsByTagName('html')[0].getAttribute('data-theme') == 'dark') {        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = arr[idx] + " 0 0 10px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = arr[idx] + " 0 0 5px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = arr[idx] + " 0 0 12px";            document.getElementsByClassName("author-info__description")[0].style.textShadow = arr[idx] + " 0 0 12px";        } catch {                    }        idx++;        if (idx == 8) {            idx = 0;        }    } else {        // 白天模式恢复默认        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = "#1e1e1ee0 1px 1px 1px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = "";            document.getElementsByClassName("author-info__description")[0].style.textShadow = "";        } catch {                    }    }}// 开启计时器window.onload = setInterval(changeColor, 1200);]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -309,11 +287,22 @@
     
     
     <entry>
-      <title>友情链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title></title>
+      <link href="/js/light.js"/>
+      <url>/js/light.js</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[// 霓虹灯效果// 颜色数组var arr = ["#39c5bb", "#f14747", "#f1a247", "#f1ee47", "#b347f1", "#1edbff", "#ed709b", "#5636ed"];// 颜色索引var idx = 0;// 切换颜色function changeColor() {    // 仅夜间模式才启用    if (document.getElementsByTagName('html')[0].getAttribute('data-theme') == 'dark') {        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = arr[idx] + " 0 0 10px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = arr[idx] + " 0 0 5px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = arr[idx] + " 0 0 12px";            document.getElementsByClassName("author-info__description")[0].style.textShadow = arr[idx] + " 0 0 12px";        } catch {                    }        idx++;        if (idx == 8) {            idx = 0;        }    } else {        // 白天模式恢复默认        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = "#1e1e1ee0 1px 1px 1px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = "";            document.getElementsByClassName("author-info__description")[0].style.textShadow = "";        } catch {                    }    }}// 开启计时器window.onload = setInterval(changeColor, 1200);]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>杂七杂八</title>
+      <link href="/gallery/index.html"/>
+      <url>/gallery/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="https://s2.loli.net/2022/12/12/dfFWyGV3Qc91UOK.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">杂久杂拾</div>  <p>水有三沸，心难再倾</p>  <a href="/gallery/triviality"></a>  </figcaption>  </figure>  </div>]]></content>
       
     </entry>
     
@@ -325,6 +314,17 @@
       <url>/music/index.html</url>
       
         <content type="html"><![CDATA[<div class="aplayer no-destroy" data-id="7812241963" data-server="netease" data-type="playlist" data-loop="all" data-autoplay="true" data-lrctype="-1"> </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
